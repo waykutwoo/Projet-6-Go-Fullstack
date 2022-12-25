@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/waykutwoo/Projet-6-Piiquante/issues"
   },
-  "homepage": "https://github.com/waykutwoo/Projet-6-Piiquante#readme"
+  "homepage": "https://github.com/waykutwoo/Projet-6-Piiquante#readme",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {}
 }
